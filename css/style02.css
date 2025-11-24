@@ -1,0 +1,26 @@
+header {
+    background-color: rgb(255, 153, 0);
+    width: 100%;
+    border: 1px solid black;
+    height: 40px;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+.main {
+    background-color: rgb(162, 166, 166);
+    width: 100%;
+    border: 1px solid black;
+    height: 40px;
+    padding: 20px;
+}
+.footer {
+    background-color: rgb(29, 29, 88);
+    width: 100%;
+    border: 1px;
+    height: 40px;
+    padding: 20px;
+    margin-top: 10px;
+
+
+} 
+

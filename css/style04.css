@@ -1,0 +1,33 @@
+.header {
+    background-color: rgb(255, 255, 0);
+    border: 1px solid black;
+    height: 140px;
+    width: 100%;
+}
+.container {
+display: flex;
+flex-direction: row;
+gap: 20px;
+
+}
+.aside {
+    background-color: rgb(160, 160, 158);
+    border: solid black 1PX;
+    width: 30%;
+    height: 260px;
+    margin-top: 15px;
+}
+.main {
+   background-color: rgb(16, 236, 236); 
+   border: solid black 1px;
+   width: 100%;
+   height: 260px;
+   margin-top: 15px;
+}
+.footer {
+    background-color: rgb(86, 86, 231);
+    border: solid black 1px;
+    width: 100%;
+    height: 200px;
+    margin-top: 15px;
+}

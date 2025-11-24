@@ -1,0 +1,19 @@
+.header {
+    background-color: rgba(246, 137, 5, 0.922);
+    width: 100%;
+    height: 50px;
+    border: 1px solid black;
+}
+.main {
+    background-color: rgb(99, 96, 96);
+    width: 100%;
+    height: 50px;
+    border: 1px solid black;
+    text-align: center;
+}
+.footer {
+    background-color: rgb(6, 46, 120);
+    width: 100%;
+    height: 50px;
+    border: 1px solid black;
+}  
